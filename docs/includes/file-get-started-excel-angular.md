@@ -2,6 +2,12 @@
 
 In this article, Darren will walk you through the process of building an Excel add-in using Angular and the Excel JavaScript API.
 
+## Who is Darren?
+
+He's a new Dev Writer on the Office Add-ins team, not to mention a curmudgeon.
+
+> [!VIDEO https://www.youtube.com/embed/uEpFeVShtGs]
+
 ## Prerequisites
 
 - Check whether you already have the [Angular CLI prerequisites](https://github.com/angular/angular-cli#prerequisites) and install any prerequistes that you are missing.
