@@ -1,6 +1,6 @@
 # Build an Excel add-in using Angular
 
-In this article, you'll walk you through the process of building an Excel add-in using Angular and the Excel JavaScript API.
+In this article, Darren will walk you through the process of building an Excel add-in using Angular and the Excel JavaScript API.
 
 ## Prerequisites
 
